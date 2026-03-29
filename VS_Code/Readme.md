@@ -234,7 +234,7 @@ Includes multiple themes:
 Download or clone project
 
 ```
-git clone https://github.com/yourusername/text-to-all-text
+git clone https://github.com/A-Santhosh-Hub/Software-s.git
 ```
 
 ### Step 2

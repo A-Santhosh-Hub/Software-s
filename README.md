@@ -1,6 +1,7 @@
 # Software-s
 
-# 1. Text to All Text – VS Code Edition --> PROJECT ( Download and Insall  ) [(https://github.com/A-Santhosh-Hub/Software-s/blob/main/VS_Code/SanCode_V2.exe)] 
+# 1. Text to All Text – VS Code Edition --> PROJECT ( Download and Insall  ) [(https://github.com/A-Santhosh-Hub/Software-s/blob/main/VS_Code/SanCode_v.2.1.exe)] 
 
-## Next Update Like Mobile Videw : 
-![output](https://github.com/A-Santhosh-Hub/Software-s/blob/main/VS_Code/P2.png)
+## Next Update Like Full HTML Folder Import to Work option and see the Preview Of All Files (Video, images, audio, and more) and Live Project View :  : 
+![output](https://github.com/A-Santhosh-Hub/Software-s/blob/main/VS_Code/P3.png)
+

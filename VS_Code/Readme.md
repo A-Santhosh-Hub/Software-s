@@ -319,5 +319,10 @@ If you like this tool:
 ## 1 Text to All Text – VS Code Edition  live link( https://a-santhosh-hub.github.io/in/Project/SanCode.html ) PROJECT PREVIEW 
 ![output](https://github.com/A-Santhosh-Hub/Software-s/blob/main/VS_Code/P1.png)
 
-# Next Update Like Mobile Videw : 
+# Mobile Videw : 
 ![output](https://github.com/A-Santhosh-Hub/Software-s/blob/main/VS_Code/P2.png)
+
+
+
+# Next Update Like Full HTML Folder Import to Work option and see the Preview Of All Files and Live Project View : 
+![output](https://github.com/A-Santhosh-Hub/Software-s/blob/main/VS_Code/P3.png)

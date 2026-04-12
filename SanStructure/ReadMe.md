@@ -10,7 +10,7 @@ We have successfully converted the SanStructure environment into a standalone **
 * **Offline First:** Works entirely without an internet connection.  
 * **High Performance:** Faster local processing of large project structures.
 
-[**Download the Latest EXE Release here**](https://www.google.com/search?q=https://github.com/a-santhosh-hub/sanstructure-web/releases)
+[**Download the Latest EXE Release here**](https://github.com/A-Santhosh-Hub/Software-s/blob/main/SanStructure/SanStructure.exe)
 
 ## **✨ Key Features**
 
@@ -61,5 +61,7 @@ The project follows the **2026 Android 16 Visual Guidelines**:
 ### **📄 License**
 
 This project is open-source. Feel free to use it to speed up your development workflow\!
+
+![output](https://github.com/A-Santhosh-Hub/Software-s/blob/main/SanStructure/P1.png)
 
 *Generated with SanStructure Web v1.0*
